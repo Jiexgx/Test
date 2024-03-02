@@ -1,1 +1,1 @@
-Place the datapack inside of "Minecraftprofile/saves/datapack" folder, may have to unzip
+Place the datapack inside of "Minecraftprofile/saves/datapacks" folder, may have to unzip
